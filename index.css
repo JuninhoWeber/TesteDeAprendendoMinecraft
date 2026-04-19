@@ -52,8 +52,20 @@ body {
     top: 60%;
 }
 
-.IDIV3444565NextNAMECODEDATA1234553 {
+.CriandoFornalha {
     top: 230%;
+    position: absolute;
+}
+
+.AprimoramentoDeArmaduraEFerramentas {
+    position: absolute;
+    top: 285%;
+}
+
+.NEWPAGE {
+    top: 480%;
+    left: 20%;
+    font-size: 50px;
     position: absolute;
 }
 
